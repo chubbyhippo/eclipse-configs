@@ -1,4 +1,6 @@
 # eclipse-configs
+## Auto Content Assist
+Preferences->Java->Editor->Content Assist->Auto activation triggers for Java:abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ._:
 ## Eclipse Marketplace
 Thymeleaf  
 ## emmet
