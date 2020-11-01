@@ -4,6 +4,7 @@
 * Preferences->Web->HTML Files->Editor->Content Assist->Promt when these characters are inserted:<=#:
 ## Eclipse Marketplace
 Vrapper  
+Relative Line Number Ruler  
 Thymeleaf  
 MoreUnit  
 ## emmet
