@@ -6,5 +6,6 @@
 Vrapper  
 Relative Line Number Ruler  
 Thymeleaf  
+EclEmma  
 ## emmet
 https://github.com/emmetio/emmet-eclipse#readme
