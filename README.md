@@ -7,6 +7,7 @@ Vrapper
 Relative Line Number Ruler  
 Thymeleaf  
 EclEmma  
+SQL Editor  
 Cucumber Eclipse Plugin
 ## emmet
 https://github.com/emmetio/emmet-eclipse#readme
